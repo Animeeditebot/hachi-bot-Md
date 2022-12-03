@@ -29,7 +29,7 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 /*============== INFO OWNER ==============*/
 global.sig = 'https://instagram.com/zeefiveofc_98'
 global.syt = 'https://youtube.com/@zeefiveofc9091'
-global.sgh = 'https://github.com/SaipulAnuar'
+global.sgh = 'https://github.com/Animeeditebot'
 global.sgc = 'https://chat.whatsapp.com/HAZ6yFgCafUAeDbNH33IrL'
 global.swa = 'wa.me/6289627064040'
 global.swb = 'https://'
@@ -38,10 +38,10 @@ global.snh = 'https://nhentai.net/g/365296/' //Make ini aja gausah di ganti.
 /*============== PAYMENT ==============*/
 global.pdana = '08627064040'
 global.povo = '-'
-global.pgopay = '088279268363'
+global.pgopay = '-'
 global.ppulsa = '-'
 global.ppulsa2 = '-'
-global.psaweria = 'https://saweria.co/raraharsita2'
+global.psaweria = 'https://saweria.co/zeefiveofc'
 
 /*============== NOMOR ==============*/
 global.nomorbot = '6289524108342'
